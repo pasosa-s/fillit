@@ -11,3 +11,6 @@ Fillit is a project which involves discovering and getting acquainted with a rec
 * Result:
 
 ![result](result.png)
+
+
+Project [for 42 School](https://www.42.fr/)
